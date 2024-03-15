@@ -1,0 +1,16 @@
+body{
+    background-color: 	#B0C4DE;
+    margin: 0%; /*espaço externo da pagina*/
+    padding: 0%;/*espaço interno da pagina*/
+   }
+
+p{
+    font-size: medium;
+    font-family: Verdana;
+
+}
+
+#logoalerta{
+    width: 15%;
+    height: 10%;
+}
